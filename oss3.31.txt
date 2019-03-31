@@ -1,0 +1,16 @@
+손 제스처 인식 게임
+https://www.manomotion.com/
+https://pdfs.semanticscholar.org/155f/f7257a044917c07bc88297091165fc0e1774.pdf
+APEX op.gg
+https://apex.tracker.gg/site-api
+https://github.com/Tabwire/ApexTab-API
+욕설필터링(오픈소스화 자체는 좋은 아이디어..구현 방식의 논의가 필요)
+http://www.inven.co.kr/webzine/news/?news=198156
+https://www.facebook.com/groups/TensorFlowKR/permalink/837026156638444/
+https://github.com/datanada/Awesome-Korean-NLP
+https://okky.kr/article/422054
+http://www.technote.co.kr/php/technote1/board.php?board=apple2&command=body&no=168
+단순 NLP로는 부족->CNN이용하여 OCR사용
+음악에서 악보로
+https://musescore.org/ko
+주제선정프로그램
