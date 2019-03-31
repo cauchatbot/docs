@@ -1,2 +1,2 @@
 # cauchatbot
-Chat Bot for Korean steamer especially twitch and youtube
+Chat Bot for Korean - DOCS ONLY REPO
